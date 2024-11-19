@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Boxes
+comment0.text=\ class\ Boxes\r\n\r\n\ The\ important\ thing\ that\ we\ need\ to\ do\ in\ this\ class\ is\ finish\ the\r\n\ 'paint'\ method.\ \ \r\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\ the\ "paint"\ method,\ that\ specifies\ what\ to\ draw\ on\ the\ screen\r\n\ \r\n\ This\ method\ needs\ to\ be\ updated\r\n
+comment2.params=e
+comment2.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ main\r\n\r\n\ All\ Java\ programs\ start\ with\ a\ method\ named\ main.\ \ This\ class'\ main\r\n\ method\ creates\ the\ window\ to\ display\ your\ Java\ drawing.\r\n\r\n\ IMPORTANT\:\ \ DO\ NOT\ MODIFY\ THIS\ METHOD\r\n
+numComments=6
